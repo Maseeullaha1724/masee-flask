@@ -1,4 +1,5 @@
- 
+# Inventory_Management_System_flask
+An inventory management web app using flask framework where user can add, delete update products, locations and track product movements. Learnt flask and implemented the system in a day. 
 1. Home
 ![home](https://user-images.githubusercontent.com/24353136/52024542-31256f80-2527-11e9-8c8a-51b387ede9d7.PNG)
 
